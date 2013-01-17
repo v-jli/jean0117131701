@@ -1,5 +1,5 @@
 ## JabbR
-JabbR is a chat application built with ASP.NET using SignalR. hello change1
+JabbR is a chat application built with ASP.NET using SignalR. hello change2
 
 ## Contributing
 Before you contribute anything make sure you set autoclrf to true.
